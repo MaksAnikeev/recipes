@@ -1,5 +1,6 @@
 # Recipes
 Telegram bot with recipes
+В этом боте я писал ветку выбора рецептов из категорий, кнопки лайк/дизлайк
 
 ## Setting up your development environment
 To run the project on your own, create a `.env` file with the following environment variables:
